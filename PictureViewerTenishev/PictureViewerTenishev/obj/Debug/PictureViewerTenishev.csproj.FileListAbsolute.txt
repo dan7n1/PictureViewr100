@@ -1,0 +1,10 @@
+C:\Users\29393194\Desktop\PictureViewerTenishev\PictureViewerTenishev\bin\Debug\PictureViewerTenishev.exe.config
+C:\Users\29393194\Desktop\PictureViewerTenishev\PictureViewerTenishev\bin\Debug\PictureViewerTenishev.exe
+C:\Users\29393194\Desktop\PictureViewerTenishev\PictureViewerTenishev\bin\Debug\PictureViewerTenishev.pdb
+C:\Users\29393194\Desktop\PictureViewerTenishev\PictureViewerTenishev\obj\Debug\PictureViewerTenishev.csproj.AssemblyReference.cache
+C:\Users\29393194\Desktop\PictureViewerTenishev\PictureViewerTenishev\obj\Debug\PictureViewerTenishev.Form1.resources
+C:\Users\29393194\Desktop\PictureViewerTenishev\PictureViewerTenishev\obj\Debug\PictureViewerTenishev.Properties.Resources.resources
+C:\Users\29393194\Desktop\PictureViewerTenishev\PictureViewerTenishev\obj\Debug\PictureViewerTenishev.csproj.GenerateResource.cache
+C:\Users\29393194\Desktop\PictureViewerTenishev\PictureViewerTenishev\obj\Debug\PictureViewerTenishev.csproj.CoreCompileInputs.cache
+C:\Users\29393194\Desktop\PictureViewerTenishev\PictureViewerTenishev\obj\Debug\PictureViewerTenishev.exe
+C:\Users\29393194\Desktop\PictureViewerTenishev\PictureViewerTenishev\obj\Debug\PictureViewerTenishev.pdb
